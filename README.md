@@ -11,7 +11,7 @@ To visualize our navigation stack, we developed the following decision trees for
 <div align="center">
   <img src="decision tree 1.png" width="250" alt="Decision Tree for Forward Movement">
   <br>
-  <sup><strong>Figure 1:</strong>Forward Movement Logic</sup>
+  <sup><strong>Figure 1:</strong> Forward Movement Logic</sup>
 </div>
 
 <br>
@@ -19,7 +19,7 @@ To visualize our navigation stack, we developed the following decision trees for
 <div align="center">
   <img src="decision tree 2.png" width="450" alt="Decision Tree for Turning Logic">
   <br>
-  <sup><strong>Figure 2:</strong>Turning Logic</sup>
+  <sup><strong>Figure 2:</strong> Turning Logic</sup>
 </div>
 
 ## Project Structure
