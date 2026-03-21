@@ -3,6 +3,8 @@
 # Given a known 5x5 maze grid and starting position, utilize an A*-lite algorithm and obstacle avoidance for maze solving
 # Completed 12/05/25
 
+#!/usr/bin/env python3
+
 from geometry_msgs.msg import TwistStamped
 from std_msgs.msg import Header
 import rclpy
