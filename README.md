@@ -9,7 +9,7 @@ Our initial idea was to turn the maze into a matrix that could be iterated over,
 ## Control Logic
 To visualize our navigation stack, we developed the following decision trees for our movement logic:
 <div align="center">
-  <img src="decision tree 1.png" width="250" alt="Decision Tree for Forward Movement">
+  <img src="Images/decision tree 1.png" width="250" alt="Decision Tree for Forward Movement">
   <br>
   <sup><strong>Figure 1:</strong> Forward Movement Logic</sup>
 </div>
@@ -17,15 +17,15 @@ To visualize our navigation stack, we developed the following decision trees for
 <br>
 
 <div align="center">
-  <img src="decision tree 2.png" width="450" alt="Decision Tree for Turning Logic">
+  <img src="Images/decision tree 2.png" width="450" alt="Decision Tree for Turning Logic">
   <br>
   <sup><strong>Figure 2:</strong> Turning Logic</sup>
 </div>
 
 ## Project Structure
 * `maze_solver.py`: The primary ROS2 node containing the multithreaded navigation logic, LiDAR data processing, and IMU-based turning functions.
-* `A_Star.py`: Sample A* path finding logic
-* `decision_tree_1.png` & `decision_tree_2.png`: Logic flow diagrams for the movement algorithms
+* `SampleLogic/A_Star.py`: Sample A* path finding logic
+* `Images/decision_tree_1.png` & `Images/decision_tree_2.png`: Logic flow diagrams for the movement algorithms
 
 ## How to Run
 1. Create a new Python package:
