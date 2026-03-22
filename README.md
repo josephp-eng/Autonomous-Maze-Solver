@@ -33,14 +33,14 @@ To visualize our navigation stack, we developed the following decision trees for
 
 ## How to Run
 1. Create a new Python package:
-   ```
+   ```bash
    ros2 pkg create --build-type ament_python autonomous_maze_solver
    ```
 3. Drop `maze_solver.py` into the `/scripts` or package folder.
 4. Ensure `rclpy`, `sensor_msgs`, and `geometry_msgs` are included in your dependencies.
 5. Ensure your Turtlebot 3 environment is sourced.
 6. Run the solver node:
-   ```
+   ```bash
    ros2 run autonomous_maze_solver solver_node
    ```
    
