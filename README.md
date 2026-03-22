@@ -1,4 +1,8 @@
 # Autonomous-Maze-Solver
+**Author:** Joseph Pokuta
+
+**Course:** Robot Operating Systems | Michigan Technological University
+
 Utilizing ROS2 (Jazzy) and Turtlebot 3 to solve a predetermined maze
 
 ## About
