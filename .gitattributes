@@ -1,0 +1,10 @@
+# Normalize line endings: the code is edited on Windows but runs on Ubuntu,
+# so keep LF in the repository (and in working copies for scripts)
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.gif binary

@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ROS 2 / colcon workspace output
+build/
+install/
+log/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
