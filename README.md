@@ -7,16 +7,11 @@
 
 Using ROS 2 (Jazzy) and a TurtleBot 3 to solve a predetermined 5x5 maze.
 
-<!--
-  Demo GIF goes here. When it's ready, drop it in Images/ and uncomment this block
-  (update the filename if needed).
-
 <div align="center">
-  <img src="Images/turtlebot_demo.gif" width="500" alt="TurtleBot 3 navigating the maze">
+  <img src="Media/maze-demo.gif" width="640" alt="TurtleBot 3 navigating the maze">
   <br>
-  <sup><strong>Demo:</strong> TurtleBot 3 solving the maze</sup>
+  <sup><strong>Demo:</strong> TurtleBot 3 solving the maze (sped up) · <a href="Media/maze-video.mp4">full-quality video</a></sup>
 </div>
--->
 
 ## About
 Our first approach, inspired by the A* algorithm, had to be set aside as the time left in the project ran short.
